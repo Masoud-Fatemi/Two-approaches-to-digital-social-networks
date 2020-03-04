@@ -3,6 +3,7 @@ Laitinen, Mikko, Masoud Fatemi & Jonas Lundberg. Size matters: Two approaches to
 
 
 “Collecting_one_ego_net.py”**:
+
 Gets a twitter username and extracts its friends’ list and the friends of friends list and saves the result in .txt and .json format. Using the extracted list you can create the friends/following ego network for the account of interest. 
 
 
