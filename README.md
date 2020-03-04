@@ -26,4 +26,4 @@ Extracts graph-based features from the ego network for the interested username/a
 Visualizes both the dependant variables and network-based features that have been calculated in the previous steps. It creates the heat-map and spider charts that have been included in the paper. Depend on what set of features you want to plot you can comment some part of the codes.
 
 
-**use must have twitter credential key if you want to run the script.
+**you must have twitter credential key if you want to run the script.
